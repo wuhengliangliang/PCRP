@@ -35,7 +35,7 @@ PCRP: Progressive Coarse-to-Fine Refinement for Pathology Grounding
 </p>
 
 <p align="center">
-  <img src="asset/model.png" width="95%" alt="PCRP framework overview">
+  <img src="asset/PCRP.pdf" width="95%" alt="PCRP framework overview">
 </p>
 
 ## Overview
